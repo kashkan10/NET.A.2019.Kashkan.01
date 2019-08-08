@@ -1,0 +1,6 @@
+C:\Users\Tanya\source\repos\SortOfArrays\Quick\bin\Debug\Quick.dll
+C:\Users\Tanya\source\repos\SortOfArrays\Quick\bin\Debug\Quick.pdb
+C:\Users\Tanya\source\repos\SortOfArrays\Quick\obj\Debug\Quick.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\SortOfArrays\Quick\obj\Debug\Quick.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\SortOfArrays\Quick\obj\Debug\Quick.dll
+C:\Users\Tanya\source\repos\SortOfArrays\Quick\obj\Debug\Quick.pdb

@@ -1,0 +1,12 @@
+C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\bin\Debug\SortOfArrays.exe.config
+C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\bin\Debug\SortOfArrays.exe
+C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\bin\Debug\SortOfArrays.pdb
+C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\obj\Debug\SortOfArrays.csprojAssemblyReference.cache
+C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\obj\Debug\SortOfArrays.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\obj\Debug\SortOfArrays.exe
+C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\obj\Debug\SortOfArrays.pdb
+C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\bin\Debug\Merge.dll
+C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\bin\Debug\Quick.dll
+C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\bin\Debug\Merge.pdb
+C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\bin\Debug\Quick.pdb
+C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\obj\Debug\SortOfArrays.csproj.CopyComplete
