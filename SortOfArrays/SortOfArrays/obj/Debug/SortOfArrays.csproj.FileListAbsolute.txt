@@ -10,3 +10,13 @@ C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\bin\Debug\Quick.dll
 C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\bin\Debug\Merge.pdb
 C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\bin\Debug\Quick.pdb
 C:\Users\Tanya\source\repos\SortOfArrays\SortOfArrays\obj\Debug\SortOfArrays.csproj.CopyComplete
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.01\SortOfArrays\SortOfArrays\bin\Debug\SortOfArrays.exe.config
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.01\SortOfArrays\SortOfArrays\bin\Debug\SortOfArrays.exe
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.01\SortOfArrays\SortOfArrays\bin\Debug\SortOfArrays.pdb
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.01\SortOfArrays\SortOfArrays\bin\Debug\Sorting.dll
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.01\SortOfArrays\SortOfArrays\bin\Debug\Merge.netmodule
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.01\SortOfArrays\SortOfArrays\obj\Debug\SortOfArrays.csprojAssemblyReference.cache
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.01\SortOfArrays\SortOfArrays\obj\Debug\SortOfArrays.csproj.CoreCompileInputs.cache
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.01\SortOfArrays\SortOfArrays\obj\Debug\SortOfArrays.csproj.CopyComplete
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.01\SortOfArrays\SortOfArrays\obj\Debug\SortOfArrays.exe
+C:\Users\Tanya\Documents\GitHub\NET.A.2019.Kashkan.01\SortOfArrays\SortOfArrays\obj\Debug\SortOfArrays.pdb

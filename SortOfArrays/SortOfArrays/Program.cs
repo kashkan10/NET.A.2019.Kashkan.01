@@ -1,6 +1,5 @@
 ﻿using System;
-using Merge;
-using Quick;
+using Sorting;
 
 namespace SortOfArrays
 {
